@@ -1,0 +1,25 @@
+/*.row div:nth-child(2n + 1) {
+    background-color: red;
+}*/
+/*.row div:nth-child(even) {
+    background-color: aqua;
+}*/
+
+body {
+    background-color: grey;
+}
+/*.container {
+    border: 2px solid pink;
+}*/
+
+.black {
+    background-color: black;
+    color: white;
+}
+.white {
+    color: black;
+    background-color: white;
+}
+
+
+
